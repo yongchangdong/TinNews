@@ -1,11 +1,7 @@
 # TinNews
 ## A Tinder-like News App
-![2](https://user-images.githubusercontent.com/63382428/105677304-89867200-5ea0-11eb-9043-ff140bfdf732.PNG)
+![1](https://user-images.githubusercontent.com/63382428/106566170-cc6dc880-64e4-11eb-9f25-69c646d64d44.PNG)
 
-a full-stack web application for users to search twitch resources (stream/video/clip) and get recommendations.  
+Designed the Instagram flavor News app based on Google Component Architectural MVVM Pattern.
 
-RESTful APIs using Java servlets, retrieved real Twitch resources using Twitch API and stored data in MySQL. 
-Support login/logout and favorite collection.
 
-## Structure of this project
-![1](https://user-images.githubusercontent.com/63382428/105676261-21835c00-5e9f-11eb-88fa-c7dbcb379795.PNG)
