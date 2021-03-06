@@ -18,5 +18,5 @@ A RecyclerView is used for displaying a large amount of data in the fashion of a
 
 ![4](https://user-images.githubusercontent.com/63382428/110220160-97a0b880-7e78-11eb-8439-5ccb4ce83906.PNG)
 
-We still need to display the content image of the news for a better experience. We use a library called Picasso to load any given image URL in a single line. Other popular image loading and caching libraries include Glide and Fresco.
+We need to display the content image of the news for a better experience. We use a library called Picasso to load any given image URL in a single line. Other popular image loading and caching libraries include Glide and Fresco.
 
